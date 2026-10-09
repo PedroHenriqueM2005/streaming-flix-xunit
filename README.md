@@ -16,8 +16,9 @@ Toda a lógica fica na classe `PlanoStreamingService` (projeto `StreamingFlix.Ap
 | Papel | Responsabilidade |
 |-------|------------------|
 | **Desenvolvedor 1** (Backend / Core) | Configuração da solução via .NET CLI e implementação das regras em `PlanoStreamingService.cs`(QA / Testes) | Suíte de testes parametrizados `PlanoStreamingServiceTests.cs` com `[Theory]` + `[InlineData]` |
-| **Desenvolvedor 3** (Docs / DevOps) | Repositório remoto, `.gitignore`, licença MIT e documentação (`README.md`) |
+| **Desenvolvedor 2** (Docs / DevOps) | Repositório remoto, `.gitignore`, licença MIT e documentação (`README.md`) |
 
+não tinha outra pessoa estavamos ausentes na sexta
 
 ## Estrutura da solução
 
