@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StreamingFlix.App/StreamingFlix.App.csproj" />
+  <Project Path="StreamingFlix.Tests/StreamingFlix.Tests.csproj" />
+</Solution>
